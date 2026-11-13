@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+pydantic
+python-multipart
+fakeredis
+pytest
+httpx
+pyyaml
